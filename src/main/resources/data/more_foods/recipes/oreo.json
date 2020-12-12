@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "M",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "more_foods:chocolate_cookie"
+        },
+        "M": {
+            "item": "more_foods:cream"
+        }
+    },
+    "result": {
+        "item": "more_foods:oreo"
+    }
+}
